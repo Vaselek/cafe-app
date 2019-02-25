@@ -1,0 +1,16 @@
+.DishContainer {
+    display: flex;
+}
+
+.DishItem {
+    margin: 15px;
+}
+
+.Button {
+    color: white;
+}
+
+.Button:hover {
+    color: white;
+    text-decoration: none;
+}
